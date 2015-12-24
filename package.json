@@ -1,0 +1,30 @@
+{
+  "name": "sh-data-tools",
+  "version": "1.0.0",
+  "description": "A set of general purpose data import/analysis classes. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/sh-data-tools.git"
+  },
+  "keywords": [
+    "data",
+    "import",
+    "data",
+    "analysis"
+  ],
+  "author": "Suhail Abood <suhail.abood@gmail.com> (suhailabood.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/sh-data-tools/issues"
+  },
+  "homepage": "https://github.com/suhdev/sh-data-tools#readme",
+  "devDependencies": {
+    "babel-runtime": "^5.8.25",
+    "jasmine-spec-reporter": "^2.4.0",
+    "lodash": "^3.10.1"
+  }
+}
